@@ -13,11 +13,13 @@ It can:
 
 ### Credits 
 
-Steam client discovery code:
-https://github.com/zhuowei/Varodahn
+Steam client discovery code: https://github.com/zhuowei/Varodahn
 
-Steam client discovery:
-http://codingrange.com/blog/steam-in-home-streaming-discovery-protocol
+Steam client discovery: http://codingrange.com/blog/steam-in-home-streaming-discovery-protocol
+
+Google protocol buffers library: https://developers.google.com/protocol-buffers/docs/overview
+
+Protocol buffer descriptors extracted from Steam by the SteamKit project: https://github.com/SteamRE/SteamKit
 
 ### License
 [The MIT License (MIT)](http://opensource.org/licenses/MIT)
