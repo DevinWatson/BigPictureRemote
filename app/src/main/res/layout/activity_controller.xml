@@ -44,9 +44,9 @@
         android:src="@drawable/right"
         android:scaleType="fitCenter"
         android:layout_toEndOf="@+id/btnDown"
-        android:layout_alignTop="@+id/btnLeft"
-        android:layout_toRightOf="@+id/btnDown"
-        android:background="@android:color/transparent" />
+        android:background="@android:color/transparent"
+        android:layout_alignTop="@+id/btnOkay"
+        android:layout_toRightOf="@+id/btnDown" />
 
     <ImageButton
         android:layout_width="75dp"
