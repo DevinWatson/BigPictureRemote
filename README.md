@@ -1,6 +1,8 @@
 ### Android Big Picture Remote
 
-This is a Android controller for Steam's Big Picture mode. It can:
+This is a Android controller for Steam's Big Picture mode. 
+
+It can:
 
 - Discover Steam clients on the local network
 - Authenticate
