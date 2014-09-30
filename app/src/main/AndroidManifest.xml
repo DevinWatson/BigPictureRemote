@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="opensteam.bigpictureremote" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.SET_DEBUG_APP" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="Big Picture Remote"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".Setup"
+            android:label="Big Picture Remote" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Authorize"
+            android:label="@string/title_activity_authorize" >
+        </activity>
+        <activity
+            android:name=".LaunchBigPicture"
+            android:label="@string/title_activity_launch_big_picture" >
+        </activity>
+        <activity
+            android:name=".Controller"
+            android:label="@string/title_activity_controller"
+            android:screenOrientation="landscape">
+        </activity>
+    </application>
+
+</manifest>
