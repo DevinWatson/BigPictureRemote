@@ -7,7 +7,7 @@ This is a Android controller for Steam's Big Picture mode. It can:
 - Launch Big Picture
 - Control the Big Picture interface via the Steam client's remote control web interface
 
-![alt tag](https://i.imgur.com/B5iqQ93.png)
+![alt tag](https://i.imgur.com/CtnAOjJ.png)
 
 ### Credits 
 
