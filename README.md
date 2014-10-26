@@ -9,7 +9,7 @@ It can:
 - Launch Big Picture
 - Control the Big Picture interface via the Steam client's remote control web interface
 
-![alt tag](https://i.imgur.com/CtnAOjJ.png)
+![alt tag](http://i.imgur.com/x3rPPWM.png)
 
 ### Credits 
 
