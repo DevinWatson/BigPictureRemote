@@ -26,3 +26,6 @@ Protocol buffer descriptors extracted from Steam by the SteamKit project: https:
 
 ### License
 [The MIT License (MIT)](http://opensource.org/licenses/MIT)
+
+
+This application is not affiliated with Valve, Steam, or any of their partners. All copyrights reserved to their respective owners.
